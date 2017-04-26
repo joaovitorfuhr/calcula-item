@@ -13,7 +13,8 @@ lab.experiment('quando não informa id',() => {
   });
 });
 
-lab.experiment('quando informa id',()
+lab.experiment('quando informa id',() => {
 if(!id = 1)
   let quantidade1 => 1
   quantidade * 3 == valortotal1 ;
+};
