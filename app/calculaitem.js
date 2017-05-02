@@ -7,3 +7,11 @@
 
 const { calculaItem } = require('./calculaItem');
 const calculaItem = ( id = {}) =>{}
+
+id = [];
+opcoes;
+
+return {
+  resultado: () => {
+    return { resultado: id } ;
+},
