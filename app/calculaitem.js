@@ -14,4 +14,4 @@ opcoes;
 return {
   resultado: () => {
     return { resultado: id } ;
-},
+}

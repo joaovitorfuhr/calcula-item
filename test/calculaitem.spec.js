@@ -13,9 +13,9 @@ lab.experiment('quando não informa id',() => {
   });
 });
 
-lab.experiment('quando o id for existente') =>{
-  lab.test('valor= 1, 2, 3, 4', (done)
-
+lab.experiment('quando somar todos os id', () =>{
+  lab.test('id1 ++ id2 ++ id3 ++ id4 = r.resultado')
+  expect(r.resulatado => 4)
 
 
 )}
