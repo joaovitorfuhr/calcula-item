@@ -13,8 +13,9 @@ lab.experiment('quando não informa id',() => {
   });
 });
 
-lab.experiment('quando informa id',() => {
-if(!id = 1)
-  let quantidade1 => 1
-  quantidade * 3 == valortotal1 ;
-};
+lab.experiment('quando o id for existente') =>{
+  lab.test('valor= 1, 2, 3, 4', (done)
+
+
+
+)}
