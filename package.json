@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "lab -v"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/joaovitorfuhr/calcula-item#readme",
   "devDependencies": {
-    "lab": "^13.0.2"
+    "lab": "^13.0.2",
+    "code": "^4.0.0"
   }
 }
